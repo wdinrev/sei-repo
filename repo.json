@@ -1,7 +1,7 @@
 {
   "meta": {
-    "name": "Sei",
-    "shortName": "wdinrev-sei",
+    "name": "wdinrev",
+    "shortName": "wdinrev",
     "website": "https://github.com/wdinrev/sei-source",
     "signingKeyFingerprint": "c0756f0cbbd5755afa1fd08a4c1a0ef795deadf9abeb156cf091eced628989d6"
   }
